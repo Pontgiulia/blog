@@ -54,7 +54,7 @@ nav a {
 }
 
 /* Estilo do conteúdo principal */
-main {
+section {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
