@@ -38,6 +38,12 @@ h2{
     font-family: 'Satisfy', cursive;
 }
 
+img{
+    width: 30%;
+    float: left;
+    padding-right: 2%;
+}
+
 /* Estilo do menu de navegação */
 nav ul {
     list-style: none;
